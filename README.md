@@ -1,4 +1,4 @@
 Chess
 =====
 
-As an chess player, albeit now rusty, I programming a version of my own. 
+As a Chess player (albeit now rusty), I'm programming a version of my own. 
